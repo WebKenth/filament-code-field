@@ -1,5 +1,5 @@
 {
-    "name": "creagia/filament-code-field",
+    "name": "webkenth/filament-code-field",
     "description": "A Filamentphp input field to edit or view code data.",
     "keywords": [
         "creagia",
@@ -15,6 +15,11 @@
         {
             "name": "Creagia",
             "email": "info@creagia.com",
+            "role": "Creator / Founder"
+        },
+        {
+            "name": "Martin Knudsen",
+            "email": "mkk@webkenth.dk",
             "role": "Developer"
         }
     ],
@@ -24,8 +29,7 @@
         "spatie/laravel-package-tools": "^1.13.5",
         "illuminate/contracts": "^9.0||^10.0"
     },
-    "require-dev": {
-    },
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "Creagia\\FilamentCodeField\\": "src",
